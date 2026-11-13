@@ -1,0 +1,4 @@
+run_id,filename,animal_id,date,frame_rate_hz,arena_width_cm,arena_height_cm,midpoint_x_cm
+run1,run1.csv,mouse_01,2026-10-02,10,60.0,40.0,30.4
+run2,run2.csv,mouse_02,2026-10-02,10,60.0,40.0,29.6
+run3,run3.csv,mouse_03,2026-10-03,10,60.0,40.0,31.1
